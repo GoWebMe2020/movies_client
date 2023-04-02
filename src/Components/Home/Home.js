@@ -1,7 +1,7 @@
 import React from 'react'
 import Hero from '../Hero/Hero'
 
-function Home({movies}) {
+const Home = ({movies}) => {
   return (
     <Hero movies={movies} />
   )
