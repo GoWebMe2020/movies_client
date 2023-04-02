@@ -20,4 +20,6 @@ A simple react app that play the frontend role to the Movies app. There are 10 l
 * Run yarn
 * npm start
 
-<img src="" width="200" />
+<img src="https://user-images.githubusercontent.com/63963827/229325890-eb8d1f9a-0c02-4ecc-afb2-69805c93d079.jpeg" width="100%" />
+<img src="https://user-images.githubusercontent.com/63963827/229325895-be8391d5-c398-4e6f-a0fe-b50591c184ad.jpeg" width="100%" />
+
